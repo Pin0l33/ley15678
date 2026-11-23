@@ -23,8 +23,6 @@ Las condiciones se evalúan en este orden (el orden importa):
 | 3 | El estudiante alega otro motivo (ej.: «me aburro») | Motivo no válido; el celular permanece guardado |
 | 4 | Ningún caso anterior | Regla general: celular guardado en la mochila |
 
-El diagrama de flujo está en [`docs/diagrama_flujo.png`](docs/diagrama_flujo.png).
-
 ## Estructura del repositorio
 
 ```
